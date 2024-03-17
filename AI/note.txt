@@ -1,0 +1,2 @@
+PS C:\> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+python -m ensurepip --upgrade

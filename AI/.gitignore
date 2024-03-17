@@ -1,7 +1,7 @@
 Scripts/
-Lib/
+Lib/*
 Include/
 data/
 .env
 share/
-pyenv.cfg
+pyvenv.cfg
