@@ -1,7 +1,8 @@
 Scripts/
-Lib/*
+Lib/
 Include/
 data/
 .env
 share/
 pyvenv.cfg
+.gitignore
