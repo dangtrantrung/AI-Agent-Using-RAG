@@ -1,3 +1,7 @@
 Scripts/
 Lib/
 Include/
+data/
+.env
+share/
+pyenv.cfg
